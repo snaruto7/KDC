@@ -1,0 +1,25 @@
+client1 12345678
+client2 1234qwer
+client3 password
+client4 p@sswrd1
+client5 password
+client6 qwerty1$
+
+client1 classA
+client2 classB
+client3 classC
+client4 classC
+client5 classB
+client6 classC
+
+fserverA BigP@s$wRd
+fserverB An0t#eRpSwD 
+
+file1a classA feserverA
+file2a classB feserverA
+file3a classC feserverA
+file4a classB feserverA
+file1b classA feserverB
+file2b classA feserverB
+file3b classB feserverB
+file4b classC feserverB
